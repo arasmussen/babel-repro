@@ -1,0 +1,4 @@
+defaults and fully supports es6-module
+not QQAndroid < 15
+not UCAndroid < 16
+not KaiOS > 0
